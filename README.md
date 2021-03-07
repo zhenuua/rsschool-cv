@@ -1,1 +1,1 @@
-# rsschool-cv
+https://zhenuua.github.io/rsschool-cv/
