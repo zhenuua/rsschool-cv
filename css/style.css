@@ -9,13 +9,8 @@ body {
     background-color: #eeeeee;
 }
 
-article{
+.contacts{
     display: flex;
-}
-
-.name-section{
-    text-align: left;
-    color: #17218f;
 }
 
 .my-name{
@@ -27,6 +22,11 @@ article{
     height: 350px;
     border: 2px solid  #0011ff;
     margin: 0 50px;
+}
+
+.name-section{
+    text-align: left;
+    color: #17218f;
 }
 
 p {
