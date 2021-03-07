@@ -1,0 +1,64 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.9;
+    color: #000000;
+    background-color: #eeeeee;
+}
+
+article{
+    display: flex;
+}
+
+.name-section{
+    text-align: left;
+    color: #17218f;
+}
+
+.my-name{
+    text-align: center;
+    color: #17218f;
+}
+
+.photo {
+    height: 350px;
+    border: 2px solid  #0011ff;
+    margin: 0 50px;
+}
+
+p {
+    color: #c50000;
+    text-align: center;
+}
+
+.skils{
+    color: #c50000;
+}
+
+.logo-rss{
+    height: 50px;
+    margin: 15px;
+}
+
+.logo-github{
+    height: 50px;
+    margin: 30px 15px;
+}
+
+.year{
+    font-size: 12px;
+    text-align: right;
+}
+
+.text-git{
+    font-size: 20px;
+    margin: 30px 0px;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #700202;
+  }
